@@ -6,7 +6,9 @@ Detectando Faces e Expressões com React Native + Expo - [Rocketseat](https://ww
 
 ## Bibliotecas
 :white_check_mark:	[Expo Camera](https://docs.expo.dev/versions/latest/sdk/camera/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwjMiiBhA4EiwAZe6jQ0Al2T44tP8QEE-47QfUN-ThDvVRZE3wDf9zs2FvO0gBO70ai29tHRoCHDgQAvD_BwE)
+
 :white_check_mark:	[Expo FaceDetector](https://docs.expo.dev/versions/latest/sdk/facedetector/)
+
 :white_check_mark:	[Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
 ### Rodando
