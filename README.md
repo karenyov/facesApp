@@ -11,7 +11,7 @@ Detectando Faces e Expressões com React Native + Expo - [Rocketseat](https://ww
 
 :white_check_mark:	[Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
-### Rodando
+## Rodando
 > obs: este aplicativo deverá ser executado em dispositivo físico, pois as libs não funcionarão no emulador.
 > Entrar na pasta do projeto e executar: 
 
